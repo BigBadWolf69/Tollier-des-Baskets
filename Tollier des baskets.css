@@ -1,0 +1,57 @@
+#carre{
+    background-color: rgb(230, 88, 88);
+    font-family: 'Kumbh Sans', sans-serif;
+    padding-left: 18px;
+}
+#p1{
+    color: #f24a02;
+    padding-top: 23px;
+    font-size: 12px;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+#p2{
+    color: #20242d;
+    font-weight: bold;
+    top: 51px;
+    font-weight: 700;
+    font-size: 44px;
+}
+#p3{
+    color: #69707d;
+    width: 476px;
+    height: 106px;
+    left: 18px;
+    top: 183px;
+    font-size: 16px;
+}
+#p4{
+    color: #20242d;
+    font-weight: bold;
+    font-size: 28px;
+    top: 309px;
+}
+#p5{
+    color: #69707d;
+    font-weight: bold;
+    font-size: 14px;
+    top: 344px;
+    text-decoration-line: line-through;
+}
+#carre{
+    height: 450px;
+    width: 550px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+
+}
+
+
+
+
+
+
+
+
+
+
